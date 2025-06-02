@@ -47,7 +47,7 @@ Used the [Face Mask Detection Dataset](https://www.kaggle.com/datasets/omkargura
 
 ## 📬 Contact
 
-For questions or feedback, reach me at [your.email@example.com](mailto:ps.mohamed.adel@gmail.com) or view my [portfolio](https://your-portfolio.com).
+For questions or feedback, reach me at [ps.mohamed.adel@gmail.com](mailto:ps.mohamed.adel@gmail.com) or view my [portfolio](https://your-portfolio.com).
 
 ---
 
