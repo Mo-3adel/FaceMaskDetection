@@ -2,7 +2,7 @@
 
 This project implements a real-time face mask detection system using a Convolutional Neural Network (CNN) trained on face mask datasets. It integrates OpenCV for face detection and runs directly in Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/FaceMaskDetection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mo-3adel/FaceMaskDetection/blob/main/FaceMaskDetection.ipynb)
 
 ## 🚀 Overview
 
@@ -47,7 +47,7 @@ Used the [Face Mask Detection Dataset](https://www.kaggle.com/datasets/omkargura
 
 ## 📬 Contact
 
-For questions or feedback, reach me at [your.email@example.com](mailto:your.email@example.com) or view my [portfolio](https://your-portfolio.com).
+For questions or feedback, reach me at [your.email@example.com](mailto:ps.mohamed.adel@gmail.com) or view my [portfolio](https://your-portfolio.com).
 
 ---
 
